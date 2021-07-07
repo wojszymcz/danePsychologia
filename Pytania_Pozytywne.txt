@@ -1,0 +1,6 @@
+Gracz giełdowy zaobserwował tendencję zmian cen akcji spółki A. Posiada on obecnie pewną liczbę akcji tej spółki. Według jego analizy, jeśli sprzeda je w tym momencie to uda mu się uzyskać stopę zwrotu na poziomie 20%. Istnieje jednak ryzyko, oszacowane prawdopodobieństwem na 25%, że sprzedaż akcji spowoduje stratę na poziomie 30%. Gracz decyduje się sprzedać akcję. Udaje mu się osiągnąć oczekiwany zysk.
+
+Gracz giełdowy zaobserwował tendencję spadkowe spółki B. Posiada on obecnie pewną liczbę akcji tej spółki. Według jego analizy, jeśli sprzeda je w tym momencie to uda mu się uniknąć straty. Istnieje jednak prawdopodobieństwo oszacowane na 35%, że akcje niedługo z powrotem zaczną rosnąć. Gracz decyduje się zatrzymać akcje. Akcje rosną na wartości i gracz zyskuje 15% wartości swojego udziału.
+
+Gracz giełdowy postanowił część swoich akcji zamienić na akcje spółki C, która miała niedługo wprowadzić na rynek innowacyjny system operacyjny. Ryzyko starty w związku z nowymi doniesieniami o wadliwości systemu określił na 80% i postanowił sprzedać akcje tracąc 5% ich wartości. Plotki okazały się jednak kłamstwem i spółka odniosła sukces na rynku.
+
